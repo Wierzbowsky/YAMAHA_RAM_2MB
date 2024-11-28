@@ -1,0 +1,37 @@
+Partslist
+---------
+
+Any of the below mentioned SRAM chips could be used (2 pieces):
+
+CY62158ELL-45ZSXI
+Static RAM 8mbit 45ns
+Manufacturer: Cypress Semiconductor
+Form-factor: TSOP44-II
+Type: SRAM - Asynchronous, 8M (1M x 8)
+Supported voltages: 4.5 V ~ 5.5 V
+
+IS62C10248AL-55TLI
+Static RAM 8mbit 55ns
+Manufacturer: Integrated Silicon Solution, Inc
+Form-factor: TSOP44-II
+Type: SRAM - Asynchronous, 8M (1M x 8)
+Supported voltages: 4.5 V ~ 5.5 V
+
+AS6C8008-55ZIN
+Static RAM 8mbit 55ns
+Manufacturer: Alliance
+Form-factor: TSOP44-II
+Type: SRAM - Asynchronous, 8M (1M x 8)
+Supported voltages: 2.7 V ~ 5.5 V
+
+Other components:
+
+74HC670D SOP16 (2 pieces)
+74LS245D SOP24
+74HC257D SOP16
+74AHCT1G32 SOT23-5 or SN74LVC1G32DBVR SOT23-5
+SMD ceramic capacitor 0603 100nF (4 pieces)
+SMD ceramic capacitor 0805 100nF (3 pieces)
+Tantalum or ceramic capacitor 1207 47-100uF
+
+Dual-row pin header 2x18
