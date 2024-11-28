@@ -25,3 +25,6 @@ When 2 SRAM chips are installed onto the board, the "2MB" solder jumper on the b
 
 It is strongly advised to test the newly-assembled RAM expansion with TESTMAP, TESTRAM and MEMTEST utilities
 after installation. There should be no errors beside the one described above (for 1MB configuration).
+
+IMPORTANT!
+The commercial usage of this project is not allowed without the permission of the author!
