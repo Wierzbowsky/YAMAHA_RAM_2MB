@@ -32,6 +32,6 @@ Other components:
 74AHCT1G32 SOT23-5 or SN74LVC1G32DBVR SOT23-5
 SMD ceramic capacitor 0603 100nF (4 pieces)
 SMD ceramic capacitor 0805 100nF (3 pieces)
-Tantalum or ceramic capacitor 1207 47-100uF
+Tantalum or ceramic capacitor 1206 (or B) 47-100uF 12v
 
 Dual-row pin header 2x18
